@@ -87,7 +87,7 @@ if(nguyento(n)==1){
     console.log(n + " khong la 1 so nguyen to");
 }
 
-Bai tap 7 
+//Bai tap 7 
 var a, b, c;
 function Max(x1,x2,x3){
     
